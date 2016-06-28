@@ -1,3 +1,3 @@
-source 'https://rubygems.org'
+source 'Https://rubygems.org'
 
 gem 'guard-rubocop'
